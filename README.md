@@ -13,6 +13,6 @@ Os objetivos desse caderno são:
 
 ## Engenharia de Prompts e "Cicatrizes"
  *Prompt inicial [como sair do zero a dev junior?]
- *Prompt melhorado[como sair de alguem que possui o basico em javascript para um dev junior focando em JS como principal linguagem? seja realista]
-## "respostas documentadas no arquivo resultados.txt"
+ *Prompt melhorado[como sair de alguem que possui o basico em javascript para um dev junior focando em JS como principal linguagem? seja realista, tenha em mente que possuo 2h por dia para estudar de segunda a sexta]
+ **[Acesse os resultados aqui](./resultados.md)**"
  
