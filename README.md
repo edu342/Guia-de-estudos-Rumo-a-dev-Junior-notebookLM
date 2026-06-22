@@ -13,9 +13,9 @@ Os objetivos desse caderno são:
 
 ## Engenharia de Prompts e "Cicatrizes"
  *Prompt inicial [como sair do zero a dev junior?]
- *Percebi que a IA entregou algo mais generalista em relação principalmente ao cronograma de estudos. Porem manteu o mesmo conteudo de estudo e a mesma ordem.
+ *Percebi que a IA entregou algo mais generalista em relação principalmente ao cronograma de estudos. Porem manteve o mesmo conteudo de estudo e a mesma ordem.
  *Prompt melhorado[como sair de alguem que possui o basico em javascript para um dev junior focando em JS como principal linguagem? seja realista, tenha em mente que possuo 2h por dia para estudar de segunda a sexta]
- *Aqui percebi como falei anteriormente a IA manteu o conteudo de estudo igual porém ela acrecentou Soft-Skills como conteudo para ser estudado e adicionou um conselho ao final da resposta , tambem organizou tudo dentro de um cronograma com base na carga horaria informada.
+ *Aqui percebi como falei anteriormente a IA manteve o conteudo de estudo igual porém ela acrecentou Soft-Skills como conteudo para ser estudado e adicionou um conselho ao final da resposta , tambem organizou tudo dentro de um cronograma com base na carga horaria informada.
  **[Acesse os resultados da IA aqui](./resultados.md)**"
 
  ##  Miniguia de Estudo 
@@ -37,6 +37,6 @@ Com base na curadoria de fontes e interações com a IA, o caminho de evolução
 Para continuar utilizando a IA como mentora de estudos ao longo das 20 semanas, os seguintes prompts podem ser replicados:
 1. *"Bom haja como um regrutador de uma grande empresa o intuito e simular uma entrevista tecnica para dev Junior com as linguagens [linguagens que você utiliza]."
 2. *"Gere um exercício prático de nível júnior em JavaScript ultilizando os frameworks Node js com Express e React.O exercicio deve ser inspirados em desafios reais ultilizados em empresas como Itau, Ifood e Santander, deve ser de nivel [selecione a dificuldade]."
-3. *"Explique o conceito de [Inserir Conceito, ex: Relacionamentos SQL 1-para-Muitos] utilizando uma analogia simples do mundo real ,com exemplos fondes de onde procurar mais sobre o assunto e dar dicas de videos no You Tube que podem me ajudar."
+3. *"Explique o conceito de [Inserir Conceito, ex: Relacionamentos SQL 1-para-Muitos] utilizando uma analogia simples do mundo real ,com exemplos fontes de onde procurar mais sobre o assunto e dar dicas de videos no You Tube que podem me ajudar."
  
  
